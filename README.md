@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php,mysql,java,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -36,8 +36,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fani103&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fani103&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fani103&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fani103&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -45,7 +48,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fani103&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=fani103&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,7 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fani103&theme=algolia&column=4&row=2"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fani103&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -120,16 +123,16 @@ AI              ████░░░░░░ 40%
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/boya-faneesh-80569533b">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://youtube.com/@EducationIsdivine-m5y">
-<img src="https://skillicons.dev/icons?i=youtube" />
+  <img src="https://skillicons.dev/icons?i=youtube" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:faneeshboya@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
